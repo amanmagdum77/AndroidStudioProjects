@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SQLite_employee</string>
+    <string name="employee">Employee</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="phone">Phone</string>
+    <string name="e_mail">E-mail</string>
+    <string name="email">e-mail</string>
+    <string name="job_title">Job title</string>
+    <string name="department">Department</string>
+    <string name="location">Location</string>
+    <string name="employee_id">Employee id</string>
+    <string name="add">ADD</string>
+    <string name="view_all">VIEW ALL</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="_1704050">1704050</string>
+    <string name="enter_employee_id_to_update_or_delete">Enter Employee id to update or delete</string>
+
+
+</resources>

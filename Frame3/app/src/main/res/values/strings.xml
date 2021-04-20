@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Frame</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="create_one">Create One</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="you_don_t_have_account_yet">You don\'t have account yet?</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+</resources>

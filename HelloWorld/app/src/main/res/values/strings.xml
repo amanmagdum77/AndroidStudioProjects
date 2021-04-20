@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="hello">Hello!</string>
+    <string name="add">ADD</string>
+    <string name="multiply">MULTIPLY</string>
+    <string name="shinra_tensei">Shinra Tensei</string>
+    <string name="ChainB1">Button</string>
+    <string name="ChainB2">Button</string>
+    <string name="Butttt">ChainB1</string>
+    <string name="button3">button3</string>
+    <string name="infer">Infer</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter password</string>
+    <string name="login">LOGIN</string>
+</resources>

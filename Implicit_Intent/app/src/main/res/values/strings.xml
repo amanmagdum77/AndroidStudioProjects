@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Implicit_Intent</string>
+    <string name="show_web" translatable="false">Show web</string>
+    <string name="clich_here">Clich here</string>
+    <string name="the_day_i_got_reincarnated_as_a_slime">The Day I got Reincarnated as a slime</string>
+    <string name="to_watch">To Watch</string>
+</resources>

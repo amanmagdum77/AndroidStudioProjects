@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AudioPlayer</string>
+    <string name="todo">TODO</string>
+
+
+    <string name="_0min_0sec">0min 0sec</string>
+</resources>

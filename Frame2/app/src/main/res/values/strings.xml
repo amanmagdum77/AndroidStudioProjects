@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Frame</string>
+    <string name="textview">TextView</string>
+    <string name="compose_email">Compose Email</string>
+    <string name="you_don_t_have_account_yet">You don\'t have account yet?</string>
+    <string name="create_one">Create One</string>
+    <string name="g">G+</string>
+</resources>
